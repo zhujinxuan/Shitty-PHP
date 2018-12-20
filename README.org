@@ -1,0 +1,1 @@
+Some articles about why PHP is shit. Written in emacs org-mode.
